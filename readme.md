@@ -4,7 +4,7 @@
 (mimicking QuickView by overlaying edit control on the target panel)
 
 It can be used in combination with QuickView: when QuickView is activated, the bottom half the panel is reserved for QVD.  
-This can can be disable (setting QuickViewOff)
+This can can be disabled (setting QuickViewOff)
 
 ## Start
 
